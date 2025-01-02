@@ -1,7 +1,7 @@
-# balamzify-backend
+# project-management-backend
 All backend business logic seamlessly integrates with the <b>projectmanagement</b> project, a sophisticated Django application powered by Django REST Framework.
 
-<b>Database design [click](https://dbdiagram.io/d/Project-management-6774712d5406798ef7047173)</b>
+## <b>Database design [click](https://dbdiagram.io/d/Project-management-6774712d5406798ef7047173)</b>
 
 ## API Document
 
